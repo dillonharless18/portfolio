@@ -23,7 +23,7 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                    I'm a very versatile developer with experience in all areas of a standard tech stack.
+                    I'm a very versatile developer with multiple years of experience in the cloud. 
                 </p>
                 <p>
                     I'm always looking to improve my skillset and am open to learning anything and everything.
